@@ -2,7 +2,9 @@
 
 **Técnico Superior en ASIR** · Especialización en Ciberseguridad · Gandía (Valencia)
 
-Administro sistemas y redes con criterio de seguridad. Busco mi primer puesto en **soporte IT, administración de sistemas o redes**. Disponibilidad inmediata.
+Administro sistemas y redes con criterio de seguridad. 🌐 **Portfolio:** [carlosapa2467.github.io](https://carlosapa2467.github.io)
+
+ Busco mi primer puesto en **soporte IT, administración de sistemas o redes**. Disponibilidad inmediata.
 
 ### Proyectos destacados
 
@@ -10,6 +12,7 @@ Administro sistemas y redes con criterio de seguridad. Busco mi primer puesto en
 |---|---|
 | [**Infraestructura web de alta disponibilidad**](https://github.com/Carlosapa2467/tfg-alta-disponibilidad-asir) | TFG de ASIR: HAProxy + Keepalived, WireGuard, Docker, Prometheus/Grafana, alertas y backups por Telegram |
 | [**VPN OpenVPN con MikroTik**](https://github.com/Carlosapa2467/vpn-openvpn-mikrotik-gns3) | Routing, NAT y resolución de incidencias reales en GNS3 |
+| [**Laboratorio SIEM con Wazuh**](https://github.com/Carlosapa2467/laboratorio-siem-wazuh) | Logs de red por Syslog, decoders propios y aislamiento de un honeypot |
 | [**Wi-Fi WPA2-Enterprise con FreeRADIUS**](https://github.com/Carlosapa2467/freeradius-wpa2-enterprise) | Autenticación centralizada por usuario |
 
 ### Tecnologías
